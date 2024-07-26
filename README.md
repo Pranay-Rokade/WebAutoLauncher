@@ -1,4 +1,4 @@
-# WebautoLauncher
+# WebAutoLauncher
 
 WebautoLauncher is a simple Python script designed to automate the opening of multiple URLs in your preferred web browser. It uses the webbrowser module to register and control the browser for URL launching.
 
